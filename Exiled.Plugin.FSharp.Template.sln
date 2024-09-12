@@ -1,0 +1,24 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Exiled.Plugin.FSharp.Template", "Exiled.Plugin.FSharp.Template\Exiled.Plugin.FSharp.Template.fsproj", "{0F33B230-743B-444E-8F7E-098B0BACE1D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F33B230-743B-444E-8F7E-098B0BACE1D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F33B230-743B-444E-8F7E-098B0BACE1D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F33B230-743B-444E-8F7E-098B0BACE1D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F33B230-743B-444E-8F7E-098B0BACE1D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6DC64672-66EE-4257-BBB6-C22F7356300C}
+	EndGlobalSection
+EndGlobal
